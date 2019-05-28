@@ -1,0 +1,22 @@
+{
+  "name": "weatherapplication",
+  "version": "1.0.0",
+  "description": "Making a weather application that can be hosted on a server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wonder13oy/WeatherApplicationJS.git"
+  },
+  "author": "Wandile Nxumalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wonder13oy/WeatherApplicationJS/issues"
+  },
+  "homepage": "https://github.com/Wonder13oy/WeatherApplicationJS#readme",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
